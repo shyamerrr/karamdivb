@@ -1,0 +1,39 @@
+hr
+{
+  border:2px solid green;
+}
+.flex
+{
+ display:flex;
+ background-image:url("design.jpg");
+ background-repeat:no-repeat;
+background-size:100%100%;
+}
+
+img
+{
+ width:150px;
+ height:140px;
+}
+.set
+{
+  border:4px solid green;
+  margin-left:19px;
+  padding-left:18px;
+  display:flex;
+  flex-direction:column;
+}
+h2
+{
+ font-size:65px;
+ font-style:italic;
+}
+.zoom
+{
+ font-size:25px; 
+}
+.content
+{
+ font-family:Garamond;
+ font-size:34px;
+}
